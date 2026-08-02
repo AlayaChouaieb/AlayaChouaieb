@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alaya Chouaieb</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast | Electronics Engineering Student | Embedded Systems & IoT Engineer
+Electronics Engineering Student | Embedded Systems & IoT Engineer | AI & Machine Learning Enthusiast
 </h3>
 
 ---
