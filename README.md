@@ -28,29 +28,28 @@ I am a Génie Électronique Industrielle (Industrial Electronics Engineering) st
 
 ### 📂 Featured Projects
 
-#### 🌊 [MareAlb Water Quality Monitoring Station]
+#### 🌊 [Water Quality Monitoring Station](https://github.com/AlayaChouaieb/water_quality_monitoring_station-main)
 *4-node ESP32 sensor network with 4G cloud publishing and AI-based forecasting — NextAV internship.*
 - **Hardware:** ESP32 (LilyGO T-Call), Raspberry Pi 5 gateway
 - **Tech:** Firebase, Azure IoT Hub, Temporal Fusion Transformer (240h forecasts)
 
-#### 📶 [ZigBee Wireless Sensor Network]
+#### 📶 [ZigBee Industrial Sensor Network](https://github.com/AlayaChouaieb/ZigBee-Industrial-Sensor-Network)
 *Wireless sensor network built on STM32 for industrial data collection — YUCCAINFO internship.*
 - **Hardware:** STM32
 - **Tech:** ZigBee, embedded C
 
-#### 🌡️ [Weather Monitoring Station]
+#### 🌡️ [Wireless Weather Monitoring Station](https://github.com/AlayaChouaieb/Wireless-Weather-monitoring-station)
 *Embedded weather station for real-time environmental data acquisition.*
 
-#### 🚗 [STM32 CAN Communication Network]
+#### 🚗 [CAN Network](https://github.com/AlayaChouaieb/CAN-Network)
 *Multi-node communication network over the CAN protocol built on STM32.*
 
-#### 🔐 [RFID Smart Door Lock]
+#### 🔐 [RFID Smart Door Lock](https://github.com/AlayaChouaieb/RFID-Smart-Door-Lock)
 *Embedded access-control system using RFID authentication.*
-
-📁 More projects on my [Academic Projects Portfolio](https://github.com/) repository, organized by embedded systems, IoT, and AI/ML categories.
 
 ---
 
 ### 📫 Connect with me
+- **LinkedIn:** [in/alaya-chouaieb](https://www.linkedin.com/in/alaya-chouaieb)
 - **Email:** alayachouaieb@gmail.com
 - **Location:** Sousse, Tunisia
