@@ -17,9 +17,12 @@ Electronics engineering student at **ENISo** (École Nationale d'Ingénieurs de 
 - **☁️ Cloud & IoT Platforms:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Azure](https://img.shields.io/badge/Azure_IoT_Hub-0089D6?style=flat&logo=microsoftazure&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
 
 - **🛠 Tools:**
-  - ![STM32Cube](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  - ![STM32Cube](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+  - **STM32CubeMX**
+
 - **🛠 PCB Design:**
-  - **Altium Designer**, **KiCad**
+  - ![Altium](https://img.shields.io/badge/Altium_Designer-A5CC33?style=flat&logo=altium&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+
 ---
 
 ### 📂 Featured Projects
@@ -49,6 +52,17 @@ Electronics engineering student at **ENISo** (École Nationale d'Ingénieurs de 
 
 ---
 
+### 🎓 Certifications
+- Embedded C & FreeRTOS — Centre Supérieure de Formations (CSF), Nov 2025
+- Learn to Program with C++ — OpenClassrooms, Mar 2025
+- Embedded Systems & STM32 MCUs — Centre Supérieure de Formations (CSF), Jan 2025
+- Learn to Program with C — OpenClassrooms, Dec 2024
+- Intermediate Python Programming — 365 Data Science, Nov 2024
+- Git & GitHub — 365 Data Science, Nov 2024
+
+---
+
 ### 📫 Connect with me
 - **LinkedIn:** [in/alaya-chouaieb](https://www.linkedin.com/in/alaya-chouaieb)
 - **Email:** alayachouaieb@gmail.com
+- **Location:** Sousse, Tunisia
