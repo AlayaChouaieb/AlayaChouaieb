@@ -52,4 +52,3 @@ Electronics engineering student at **ENISo** (École Nationale d'Ingénieurs de 
 ### 📫 Connect with me
 - **LinkedIn:** [in/alaya-chouaieb](https://www.linkedin.com/in/alaya-chouaieb)
 - **Email:** alayachouaieb@gmail.com
-- **Location:** Sousse, Tunisia
