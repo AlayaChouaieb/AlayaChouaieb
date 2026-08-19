@@ -18,7 +18,6 @@ Electronics engineering student at **ENISo** (École Nationale d'Ingénieurs de 
 
 - **🛠 Tools:**
   - ![STM32Cube](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-  - **STM32CubeMX**
 
 - **🛠 PCB Design:**
   - ![Altium](https://img.shields.io/badge/Altium_Designer-A5CC33?style=flat&logo=altium&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
@@ -28,41 +27,22 @@ Electronics engineering student at **ENISo** (École Nationale d'Ingénieurs de 
 ### 📂 Featured Projects
 
 #### 🌊 [Water Quality Monitoring Station](https://github.com/AlayaChouaieb/water_quality_monitoring_station-main)
-*NextAV internship — network of 4 ESP32-based IoT sensor nodes for lagoon water-quality monitoring.*
-- Samples data every 5 minutes, computes hourly averages, publishes telemetry over 4G to Firebase
-- Raspberry Pi 5 gateway relays sensor data from Firebase to Azure IoT Hub
+*NextAV internship — Network of 4 ESP32-based IoT sensor nodes for lagoon water-quality monitoring.*
 
 #### 📶 [ZigBee Industrial Sensor Network](https://github.com/AlayaChouaieb/ZigBee-Industrial-Sensor-Network)
-*YUCCAINFO internship — ZigBee wireless sensor network for real-time monitoring, built as team lead.*
-- STM32WB55-based, with working knowledge of Industrial IoT and MQTT built along the way
+*YUCCAINFO internship — ZigBee wireless sensor network for real-time monitoring
 
 #### 🌡️ [Wireless Weather Monitoring Station](https://github.com/AlayaChouaieb/Wireless-Weather-monitoring-station)
 *Real-time environmental monitoring system streaming to a live dashboard.*
-- STM32 sensor node bridged to ESP32 over UART, publishing over Wi-Fi/MQTT to a Node-RED dashboard
 
 #### 🚗 [CAN Network](https://github.com/AlayaChouaieb/CAN-Network)
 *Multi-node CAN bus network for inter-controller communication.*
-- CAN peripherals configured across multiple STM32 nodes with message IDs, filters, and arbitration
-- Frame transmission/reception implemented and tested with HAL drivers, validating timing and error handling
 
 #### 🔐 [RFID Smart Door Lock](https://github.com/AlayaChouaieb/RFID-Smart-Door-Lock)
 *RFID-based access control system with a servo-actuated lock.*
-- RFID cards authenticated via an RC522 reader (SPI), access status shown on an I²C LCD
-- Servo motor (PWM) actuated to lock/unlock the door on an STM32F407, using HAL drivers throughout
-
----
-
-### 🎓 Certifications
-- Embedded C & FreeRTOS — Centre Supérieure de Formations (CSF), Nov 2025
-- Learn to Program with C++ — OpenClassrooms, Mar 2025
-- Embedded Systems & STM32 MCUs — Centre Supérieure de Formations (CSF), Jan 2025
-- Learn to Program with C — OpenClassrooms, Dec 2024
-- Intermediate Python Programming — 365 Data Science, Nov 2024
-- Git & GitHub — 365 Data Science, Nov 2024
 
 ---
 
 ### 📫 Connect with me
 - **LinkedIn:** [in/alaya-chouaieb](https://www.linkedin.com/in/alaya-chouaieb)
 - **Email:** alayachouaieb@gmail.com
-- **Location:** Sousse, Tunisia
