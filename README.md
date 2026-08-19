@@ -18,8 +18,8 @@ Electronics engineering student at **ENISo** (École Nationale d'Ingénieurs de 
 
 - **🛠 Tools:**
   - ![STM32Cube](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  - **STM32CubeMX**, **MATLAB**, **Altium Designer**, **KiCad** (PCB Design)
-
+- **🛠 PCB Design:**
+  - **Altium Designer**, **KiCad**
 ---
 
 ### 📂 Featured Projects
@@ -46,16 +46,6 @@ Electronics engineering student at **ENISo** (École Nationale d'Ingénieurs de 
 *RFID-based access control system with a servo-actuated lock.*
 - RFID cards authenticated via an RC522 reader (SPI), access status shown on an I²C LCD
 - Servo motor (PWM) actuated to lock/unlock the door on an STM32F407, using HAL drivers throughout
-
----
-
-### 🎓 Certifications
-- Embedded C & FreeRTOS — Centre Supérieure de Formations (CSF), Nov 2025
-- Learn to Program with C++ — OpenClassrooms, Mar 2025
-- Embedded Systems & STM32 MCUs — Centre Supérieure de Formations (CSF), Jan 2025
-- Learn to Program with C — OpenClassrooms, Dec 2024
-- Intermediate Python Programming — 365 Data Science, Nov 2024
-- Git & GitHub — 365 Data Science, Nov 2024
 
 ---
 
