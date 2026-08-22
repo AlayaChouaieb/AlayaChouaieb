@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alaya Chouaieb</h1>
 
-<h3 align="center">🚀 IoT & Embedded Software Engineering Student</h3>
+<h3 align="center">🚀 IoT & Embedded Systems Engineering Student</h3>
 
 Electronics engineering student specializing in embedded systems, IoT, and intelligent sensing, with hands-on experience building STM32/ESP32-based systems and wireless sensor networks. Interested in research at the intersection of embedded systems, machine learning, and edge computing — particularly applying intelligent algorithms to real-world environmental sensor data.
 
