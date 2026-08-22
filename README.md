@@ -27,7 +27,7 @@ Electronics engineering student specializing in embedded systems, IoT, and intel
 ### 📂 Featured Projects
 
 #### 🌊 [Water Quality Monitoring Station](https://github.com/AlayaChouaieb/water_quality_monitoring_station-main)
-*NextAV internship — Network of 4 ESP32-based IoT sensor nodes for lagoon water-quality monitoring.*
+*NextAV internship — IoT edge-to-cloud system that collects hourly lagoon water and weather measurements.*
 
 #### 📶 [ZigBee Industrial Sensor Network](https://github.com/AlayaChouaieb/ZigBee-Industrial-Sensor-Network)
 *YUCCAINFO internship — ZigBee wireless sensor network for real-time monitoring
@@ -36,7 +36,7 @@ Electronics engineering student specializing in embedded systems, IoT, and intel
 *Real-time environmental monitoring system streaming to a live dashboard.*
 
 #### 🚗 [CAN Network](https://github.com/AlayaChouaieb/CAN-Network)
-*Multi-node CAN bus network for inter-controller communication.*
+*Multi-node CAN bus network.*
 
 #### 🔐 [RFID Smart Door Lock](https://github.com/AlayaChouaieb/RFID-Smart-Door-Lock)
 *RFID-based access control system with a servo-actuated lock.*
