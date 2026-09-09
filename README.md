@@ -2,7 +2,11 @@
 
 <h3 align="center">🚀 IoT & Embedded Systems Engineering Student</h3>
 
-Electronics engineering student specializing in embedded systems, IoT, and intelligent sensing, with hands-on experience building STM32/ESP32-based systems and wireless sensor networks. Interested in research at the intersection of embedded systems, machine learning, and edge computing — particularly applying intelligent algorithms to real-world environmental sensor data.
+I'm an **Electronics Engineering student** passionate about **Embedded Systems, IoT, and Intelligent Sensing**.
+
+I build **STM32, ESP32, and Raspberry Pi-based systems**, with hands-on experience in **wireless sensor networks, embedded software, sensor integration, and IoT architectures**.
+
+My current interests lie at the intersection of **embedded systems, edge computing, and machine learning for sensor data**, with a focus on developing intelligent solutions for real-world applications.
 
 ---
 
